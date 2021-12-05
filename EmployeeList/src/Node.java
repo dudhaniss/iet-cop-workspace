@@ -1,4 +1,6 @@
 
+
+/*Thhis is Node class..*/
 public class Node {
 	
 	private Employee data;
